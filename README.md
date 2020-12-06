@@ -1,9 +1,12 @@
 # DesafiosDIO
 Resolvendo os desafios DIO
 
+
 # Calculando Imposto de Renda
   
-let calc = window.prompt(""); // Substituir por: let calc = gets();
+  
+  
+        let calc = window.prompt(""); // Substituir por: let calc = gets();
 
         if (calc<=2000){
         window.alert('Isento'); ('Isento'); console.log('Isento');
